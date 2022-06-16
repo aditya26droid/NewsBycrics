@@ -1,0 +1,9 @@
+<Route exact path="/">business<Newsitem pageSize={21} country='in' category='sports'/></Route>
+<Route exact path="/">entertainment<Newsitem pageSize={21} country='in' category='sports'/></Route>
+<Route exact path="/">general<Newsitem pageSize={21} country='in' category='sports'/></Route>
+<Route exact path="/">health<Newsitem pageSize={21} country='in' category='sports'/></Route>
+<Route exact path="/">science<Newsitem pageSize={21} country='in' category='sports'/></Route>
+<Route exact path="/">sports<Newsitem pageSize={21} country='in' category='sports'/></Route>
+<Route exact path="/">technology<Newsitem pageSize={21} country='in' category='sports'/></Route>
+
+<Route exact path="/"><Newsitem pageSize={21} country='in' category='sports'/></Route>
